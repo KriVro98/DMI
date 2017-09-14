@@ -1,5 +1,5 @@
-    1  ehco $0
-    2  echo $0
+    
+    
     3  exit
     4  whoami
     5  who
@@ -43,3 +43,18 @@
    43  cd darbi
    44  history
    45  history > history.txt
+   46  ls -l
+   47  cat histroy.txt
+   48  cat history.txt
+   49  ls -la
+   50  -L
+   51  git init
+   52  git add .
+   53  git config --global user.email kristers2345@inbox.lv
+   54  git commit -m "20170914_09-30"
+   55  git remote add origin https://github.com/KriVro98/DMI.git
+   56  git push origin master
+   57  pwd
+   58  history
+   59  history > history.txtls -l
+   60  history > history.txt
