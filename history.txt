@@ -1,0 +1,45 @@
+    1  ehco $0
+    2  echo $0
+    3  exit
+    4  whoami
+    5  who
+    6  ls
+    7  ls -l
+    8  ls -a
+    9  pwd
+   10  ls
+   11  cd Documents/
+   12  pwd
+   13  ls
+   14  ls -la
+   15  cd..
+   16  pwd
+   17  cd ..
+   18  pwd
+   19  cd ..
+   20  pwd
+   21  man ls
+   22  pwd
+   23  ls
+   24  cd /home/user
+   25  pwd
+   26  cd /user
+   27  cd /home/user
+   28  cd/home/user
+   29  cd /
+   30  pwd
+   31  cd ..
+   32  pwd
+   33  cd /home/user
+   34  cd /home/hueast
+   35  cd /home/guest
+   36  history
+   37  cd
+   38  pwd
+   39  mkdir darbi
+   40  cd
+   41  pwd
+   42  ls -la
+   43  cd darbi
+   44  history
+   45  history > history.txt
