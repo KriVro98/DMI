@@ -39,3 +39,38 @@
    39  ls -l
    40  git upload
    41  history > history_20170921.txt
+   42  ls -l
+   43  git_upload
+   44  git-upload
+   45  ls -l git-upload
+   46  pwd
+   47  PATH=$PATH:/tmp/guest-z2ALnu
+   48  PATH=$PATH:/tmp/guest-z2ALnu/DMI
+   49  chmod 744 git-upload
+   50  ls -l
+   51  git-upload
+   52  git_upload
+   53  git-upload
+   54  nano git-upload
+   55  git history_20140921.txt
+   56  git history_20170921.txt
+   57  nano history_20170921.txt
+   58  nano git-upload
+   59  nano shell_trennins.sh
+   60  ls -l
+   61  ./shell_trennins.sh
+   62  chmod 744 shell_trennins.sh
+   63  ls -l
+   64  ./shell_trennins.sh
+   65  echo $AAA
+   66  AAA=*****
+   67  cat shell_trennins.sh
+   68  ./shell_trennins.sh
+   69  echo NAME
+   70  echo shell_trennins.sh
+   71  echo
+   72  echo shell_trennins.sh
+   73  nano shell_trennins.sh
+   74  echo shell_trennins.sh
+   75  ./shell_trennins.sh
+   76  history > history_20170921.txt
