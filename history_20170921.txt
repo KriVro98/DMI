@@ -1,0 +1,41 @@
+    1  nano
+    2  cat
+    3  ls -l
+    4  cat
+    5  git-download
+    6  where is ls
+    7  whereis ls
+    8  ls -l bin/ls
+    9  ls -l /bin/ls
+   10  ls -l git-download.sh
+   11  echo $PATH
+   12  cat /bin/ls
+   13  PATH=$PATH:/home/user
+   14  pwd
+   15  $PATH
+   16  ls
+   17  /bin/ls
+   18  -/git-download.sh
+   19  ~/git-download.sh
+   20  git-download.sh
+   21  ls -l
+   22  ls -l/bin/ls
+   23  ls -l /bin/ls
+   24  chmod 744 git-download.sh
+   25  ls -l
+   26  git-download.sh
+   27  nano git-download.sh
+   28  git-download.sh
+   29  ls -l
+   30  mv git-download.sh git-download
+   31  ls -l
+   32  cd DMI/
+   33  ls -la
+   34  pwd
+   35  ls -la
+   36  cp ../git-download ./
+   37  ls -l
+   38  nano git-upload
+   39  ls -l
+   40  git upload
+   41  history > history_20170921.txt
