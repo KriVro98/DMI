@@ -1,0 +1,14 @@
+    1  $#
+    2  echo $#
+    3  nano shell_examples.sh
+    4  ./shell_examples.sh
+    5  ./shell_examples.sh arg1
+    6  nano shell_examples.sh
+    7  ./shell_examples.sh
+    8  nano shell_examples.sh
+    9  ./shell_examples.sh
+   10  ./shell_examples.sh arg1
+   11  ./shell_examples.sh arg1 arg2
+   12  nano git-upload
+   13  histor > history_20170928.txt
+   14  history > history_20170928.txt
