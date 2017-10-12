@@ -1,0 +1,58 @@
+    1  git clone://github.com/krivro98/DMI.git
+    2  git clone https://github.com/krivro98/DMI.git
+    3  ls -l
+    4  nano
+    5  ls -l
+    6  ./uzdevums
+    7  nano
+    8  nano uzdevums
+    9  ls -l
+   10  nano shell_operators_atkaartoti_C03.sh
+   11  shell_operators_atkaartoti_C03.sh
+   12  ./shell_operators_atkaartoti_C03.sh
+   13  chmod 744 shell_operators_atkaartoti_C03.sh
+   14  ./shell_operators_atkaartoti_C03.sh
+   15  cat shell_operators_atkaartoti_C03.sh
+   16  ls -lt
+   17  mv shell_operators_atkaartoti_C03.sh uzdevums DMI/
+   18  ls -lt
+   19  cd DMI
+   20  ls -lt
+   21  nano shell_operators_atkaartoti_C03.sh
+   22  shell_operators_atkaartoti_C03.sh
+   23  ./shell_operators_atkaartoti_C03.sh
+   24  chmod 744 shell_operators_atkaartoti_C03.sh
+   25  ./shell_operators_atkaartoti_C03.sh
+   26  cat shell_operators_atkaartoti_C03.sh
+   27  shell_operators_atkaartoti_C03.sh
+   28  chmod 744 shell_operators_atkaartoti_C03.sh
+   29  shell_operators_atkaartoti_C03.sh
+   30  ./shell_operators_atkaartoti_C03.sh
+   31  shell_operators_atkaartoti_C03.sh
+   32  chmod 744 shell_operators_atkaartoti_C03.sh
+   33  cat shell_operators_atkaartoti_C03.sh
+   34  nano shell_operators_atkaartoti_C03.sh
+   35  shell_operators_atkaartoti_C03.sh
+   36  cat shell_operators_atkaartoti_C03.sh
+   37  chmod 744 shell_operators_atkaartoti_C03.sh
+   38  ./shell_operators_atkaartoti_C03.sh
+   39  chmod 744 shell_operators_atkaartoti_C03.sh
+   40  cat shell_operators_atkaartoti_C03.sh
+   41  nano shell_operators_atkaartoti_C03.sh
+   42  shell_operators_atkaartoti_C03.sh
+   43  ./shell_operators_atkaartoti_C03.sh
+   44  nano shell_operators_atkaartoti_C03.sh
+   45  shell_operators_atkaartoti_C03.sh
+   46  ./shell_operators_atkaartoti_C03.sh
+   47  nano shell_operators_atkaartoti_C03.sh
+   48  ./shell_operators_atkaartoti_C03.sh
+   49  shell_operators_atkaartoti_C03.sh
+   50  nano shell_operators_atkaartoti_C03.sh
+   51  ./shell_operators_atkaartoti_C03.sh
+   52  nano shell_operators_atkaartoti_C03.sh
+   53  ./shell_operators_atkaartoti_C03.sh
+   54  nano shell_operators_atkaartoti_C03.sh
+   55  ./shell_operators_atkaartoti_C03.sh
+   56  nano git-upload
+   57  history
+   58  history > history_20171012_C03.txt
