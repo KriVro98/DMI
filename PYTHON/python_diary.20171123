@@ -1,0 +1,65 @@
+Python 2.7.3 (default, Jan  2 2013, 16:53:07) 
+[GCC 4.7.2] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> vars ()
+{'__builtins__': <module '__builtin__' (built-in)>, '__name__': '__main__', '__doc__': None, '__package__': None}
+>>> __builtins__.inp
+
+Traceback (most recent call last):
+  File "<pyshell#1>", line 1, in <module>
+    __builtins__.inp
+AttributeError: 'module' object has no attribute 'inp'
+>>> __builtins__.input.__doc__
+'input([prompt]) -> value\n\nEquivalent to eval(raw_input(prompt)).'
+>>> from mathe import sin
+
+Traceback (most recent call last):
+  File "<pyshell#3>", line 1, in <module>
+    from mathe import sin
+ImportError: No module named mathe
+>>> from math import sin
+>>> vas()
+
+Traceback (most recent call last):
+  File "<pyshell#5>", line 1, in <module>
+    vas()
+NameError: name 'vas' is not defined
+>>> vars()
+{'__builtins__': <module '__builtin__' (built-in)>, '__doc__': None, '__name__': '__main__', '__package__': None, 'sin': <built-in function sin>}
+>>> from math import sin
+>>> vars()
+{'__builtins__': <module '__builtin__' (built-in)>, '__doc__': None, '__name__': '__main__', '__package__': None, 'sin': <built-in function sin>}
+>>> import math
+>>> vars()
+{'__builtins__': <module '__builtin__' (built-in)>, '__doc__': None, '__name__': '__main__', '__package__': None, 'sin': <built-in function sin>, 'math': <module 'math' (built-in)>}
+>>> import math as matematika
+>>> vars()
+{'__builtins__': <module '__builtin__' (built-in)>, 'matematika': <module 'math' (built-in)>, '__doc__': None, '__name__': '__main__', '__package__': None, 'sin': <built-in function sin>, 'math': <module 'math' (built-in)>}
+>>> log(10,10)
+
+Traceback (most recent call last):
+  File "<pyshell#13>", line 1, in <module>
+    log(10,10)
+NameError: name 'log' is not defined
+>>> math.log(10.10)
+2.312535423847214
+>>> matematika.log(10,10)
+1.0
+>>> from math import sin as sinuss
+>>> sinuss(5)
+-0.9589242746631385
+>>> ================================ RESTART ================================
+>>> 
+
+Traceback (most recent call last):
+  File "/home/user/DMI/PYTHON/zimesana1.py", line 1, in <module>
+    from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
+ImportError: No module named matplotlib.backends.backend_agg
+>>> ================================ RESTART ================================
+>>> 
+
+Traceback (most recent call last):
+  File "/home/user/DMI/PYTHON/zimesana1.py", line 1, in <module>
+    import matplotlib.pyplot as plt
+ImportError: No module named matplotlib.pyplot
+>>> 
