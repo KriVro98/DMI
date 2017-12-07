@@ -1,0 +1,27 @@
+1 	cd- Mainît darba direktoriju, pâriet uz citu mapi.
+2 	chmod 744- Pieðíir izveidotajam kodam tiesîbas.
+3 	cat- Parâda vai nolasa to kas atrodas mapç.
+4 	cp- Nokopç failu.
+5 	echo- Parâda tikko uzrakstîto tekstu.
+6 	firefox- Atver Firefox interneta pârlûku.
+7 	git init- Izveidot jaunu git repozitoriju vai inicializçt esoðo.
+8 	git add- Pievienot faila saturu.
+9 	git config- Uzstâdît glabâtuvi un tâs opcijas.
+10 	git commit- ierakstît izmaiòas repozitarijâ.
+11 	git remote add origin- Norâda, kur vçlies novietot savus failus.
+12 	git push origin master- Atjaunina norâdîto Git repozitâriju ar terminâla failiem.
+13 	git clone- Pârkopç Git repozitâriju uz terminâlu.
+14 	history- Parâda veikto komandu vçsturi.
+15 	ls- Direktorija satura saraksts.
+16 	ls -l -Direktorija satura saraksts izmantojot garo saraksta formâtu.
+17 	la -la- Direktorija satura saraksts, kas parâda pilnîgi visus failus.
+18 	mkdir- Izveido mapi.
+19 	mv- Pârvieto failus.
+20 	man- Parâda, ko var darît ar noteiktu komandu.
+21 	nano- Teksta redaktors.
+22 	pwd- Parâda tagadçjo atraðanâs vietu.
+23 	rmdir- Izdzçð mapi.
+24 	rm- Dzçð failus vai direktorijus.
+25 	whereis- parâda kur atrodâs konkrçts fails.
+26 	~- Atgrieþ tevi sâkuma pozîcijâ
+27 	$PATH- Norâda ceïu
